@@ -8,7 +8,7 @@ My solution to the [Social links profile challenge on Frontend Mentor](https://w
 
 ## Links
 
-- Live site: 
+- Live site: https://socialmedialinks-mentorfrontend.netlify.app/
 - Solution: 
 
 ## Features
